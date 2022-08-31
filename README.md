@@ -5,7 +5,6 @@
 
 👩🏻‍🎓 Engenheira de Produção, por isso sempre com conceitos de Gestão
 
-🎀 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/karenmierlo">
