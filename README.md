@@ -1,10 +1,11 @@
 # Ooi, eu sou a Karen van Mierlo
 
 
-👩🏻‍💻 Estudando Análise de Dados - ENTRA21
+👩🏻‍💻 Análise de Dados ENTRA21
 
-👩🏻‍🎓 Engenheira de Produção, por isso sempre com conceitos de Gestão
+👩🏻‍🎓 Engenheira de Produção, bacharel e mestre
 
+🌍 De Castro | PR para o mundão (assim esperamos - amém!)
 
 <div align="center">
   <a href="https://github.com/karenmierlo">
