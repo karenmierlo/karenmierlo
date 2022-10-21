@@ -5,6 +5,8 @@
 
 👩🏻‍🎓 Engenheira de Produção, bacharel e mestre
 
+📚 Estudante de Matemática
+
 🌍 De Castro | PR para o mundão (assim esperamos - amém!)
 
 <div align="center">
@@ -18,7 +20,12 @@
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Karen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Karen-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-
+  <img align="center" alt="Karen-html" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Karen-css" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Karen-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+  <img align="center" alt="Karen-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
+                       
  </div>
  
   ##
@@ -30,4 +37,4 @@
    
 </div>
 
-<p align="center"> <img src= "https://komarev.com/ghpvc/?username=karenmierlo&label=Profile%20views&color=#b60e75&style=flat" alt="karenmierlo" /> </p>
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=karenmierlo&label=Profile%20views&color=ff3399&style=flat" alt="karenmierlo" /> </p>
