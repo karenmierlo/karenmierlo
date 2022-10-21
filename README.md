@@ -29,4 +29,5 @@
   <a href="https://www.linkedin.com/in/karen-godoi-van-mierlo-51a604207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 </div>
-  
+
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=karenmierlo&label=Profile%20views&color=#b60e75&style=flat" alt="karenmierlo" /> </p>
