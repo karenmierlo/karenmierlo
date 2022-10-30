@@ -10,6 +10,13 @@
 🌍 De Castro | PR para o mundão (assim esperamos - amém!)
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Karen;Please+Feel+Free+To+Contact+Me)](https://git.io/typing-svg)
+
+
+</div>
+
+<div align="center">
   <a href="https://github.com/karenmierlo">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=karenmierlo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenmierlo&layout=compact&langs_count=7&theme=dracula"/>
